@@ -1,0 +1,927 @@
+{
+  "reglas": [
+    {
+      "palabras_clave": [
+        "quien sos",
+        "quien eres",
+        "que es esto",
+        "quien es tom",
+        "tu nombre",
+        "como te llamas",
+        "presentate",
+        "riddle",
+        "revelate",
+        "quién sos"
+      ],
+      "respuesta": "Soy Tom Marvolo Riddle. Guardo mis recuerdos en este diario, y hoy los pongo al servicio de quienes quieren conocer el Profesorado de Educación Secundaria en Informática. Pregunta lo que quieras.",
+      "audio": "tom_01_quien_sos.mp3"
+    },
+    {
+      "palabras_clave": [
+        "que materias se cursan",
+        "que materias",
+        "materias",
+        "asignaturas",
+        "plan de estudios",
+        "que se estudia",
+        "que se cursa",
+        "que se enseña",
+        "que se da"
+      ],
+      "respuesta": "La carrera tiene treinta y tres materias en cuatro años. Hay materias de informática, como programación, bases de datos, conectividad y seguridad informática. Hay materias pedagógicas, como pedagogía, didáctica y psicología educacional. Y hay una práctica docente cada año, que termina en la Residencia.",
+      "audio": "tom_materias.mp3"
+    },
+    {
+      "palabras_clave": [
+        "que puedo preguntar",
+        "en que me ayudas",
+        "que sabes",
+        "que sabes hacer",
+        "como funciona esto",
+        "ayuda",
+        "qué puedo preguntarte",
+        "que te puedo preguntar",
+        "qué ye puedo preguntar",
+        "que sabes"
+      ],
+      "respuesta": "Puedes preguntarme por la carrera: cuánto dura, qué título entrega y qué puede hacer quien se recibe. También por sus objetivos y por el perfil del egresado. Elige una pregunta y escríbela.",
+      "audio": "tom_02_que_puedo_preguntar.mp3"
+    },
+    {
+      "palabras_clave": [
+        "como se llama la carrera",
+        "nombre tiene la carrera, profesorado",
+        "que es esta carrera",
+        "de que es la carrera",
+        "que carrera es",
+        "nombre de la carrera",
+        "de que trata la carrera",
+        "que carrera estas promocionando",
+        "cómo se llama la carrera",
+        "contáme sobre esta carrera",
+        "háblame de esta carrera",
+        "hablame de esta carrera, profesorado",
+        "contame de esta carrera",
+        "como se llama el profesorado"
+      ],
+      "respuesta": "Se llama Profesorado de Educación Secundaria en Informática. Es una carrera que forma profesores para enseñar informática en las escuelas secundarias.",
+      "audio": "tom_03_nombre_carrera.mp3"
+    },
+    {
+      "palabras_clave": [
+        "que titulo",
+        "titulo que otorga",
+        "titulo obtiene",
+        "con que titulo",
+        "de que me recibo",
+        "que titulo da",
+        "qué título se obtiene"
+      ],
+      "respuesta": "Quien termina la carrera recibe el título de Profesor o Profesora de Educación Secundaria en Informática.",
+      "audio": "tom_04_titulo.mp3"
+    },
+    {
+      "palabras_clave": [
+        "cuanto dura",
+        "duracion",
+        "cuanto tiempo se estudia",
+        "cuanto tiempodura",
+        "cuantos años dura",
+        "cuantos años",
+        "años de carrera",
+        "cuanto tiempo dura",
+        "cuánto dura la carrera",
+        "cuanto se estudia, tiempo"
+      ],
+      "respuesta": "La carrera dura cuatro años académicos. Es el tiempo que lleva formarse como profesor o profesora de informática para el nivel secundario.",
+      "audio": "tom_05_duracion.mp3"
+    },
+    {
+      "palabras_clave": [
+        "horas reloj",
+        "carga horaria",
+        "cuantas horas",
+        "cuantas horas tiene",
+        "horas en total",
+        "horas totales",
+        "cuántas horas tiene la carrera"
+      ],
+      "respuesta": "La carga horaria total de la carrera es de dos mil setecientas seis horas reloj. Muchas horas pero vale la pena.",
+      "audio": "tom_06_horas_reloj.mp3"
+    },
+    {
+      "palabras_clave": [
+        "en horas catedra",
+        "horas catedra",
+        "horas catedras",
+        "carga en catedras",
+        "y cuántas son en horas cátedra"
+      ],
+      "respuesta": "Expresada en horas cátedra, la carrera suma tres mil novecientas sesenta y ocho horas en total.",
+      "audio": "tom_07_horas_catedra.mp3"
+    },
+    {
+      "palabras_clave": [
+        "salida laboral",
+        "que puede hacer",
+        "que puedo hacer",
+        "alcances del titulo",
+        "alcances",
+        "trabajo",
+        "trabajar",
+        "laburo",
+        "donde trabaja",
+        "qué salida laboral tiene",
+        "para que me sirve el titulo",
+        "que titulo me dan",
+        "titulo"
+      ],
+      "respuesta": "Quien se recibe puede ejercer la docencia en la educación secundaria. También puede asesorar sobre cómo enseñar informática y computación, investigar temas educativos y de computación, y brindar asesoramiento pedagógico. Además, el título permite seguir estudiando un posgrado.",
+      "audio": "tom_08_que_puede_hacer.mp3"
+    },
+    {
+      "palabras_clave": [
+        "dar clases",
+        "dar clase",
+        "nivel",
+        "superior",
+        "instituto",
+        "ser profesor",
+        "ser docente",
+        "ensenar solo en la secundaria",
+        "ejercer la docencia instituto",
+        "docencia secundaria",
+        "puedo dar clases en el nivel superior",
+        "ies"
+      ],
+      "respuesta": "Sí. Los egresados no solo pueden ejercer la docencia en  el nivel  secundario, si no también su titulo es de Carácter Habilitante en el nivel superior.",
+      "audio": "tom_09_docencia.mp3"
+    },
+    {
+      "palabras_clave": [
+        "metodologia de la ensenanza",
+        "metodologia",
+        "como ensenar informatica",
+        "asesorar sobre ensenanza",
+        "asesorar sobre como ensenar",
+        "se puede asesorar sobre cómo enseñar informática"
+      ],
+      "respuesta": "Sí. El egresado puede asesorar en lo referente a la metodología de la enseñanza de la informática y la computación.",
+      "audio": "tom_10_asesorar_metodologia.mp3"
+    },
+    {
+      "palabras_clave": [
+        "investigar",
+        "investigaciones",
+        "estudios e investigaciones",
+        "hacer investigacion",
+        "investigacion educativa",
+        "se puede investigar"
+      ],
+      "respuesta": "Sí. El título habilita a elaborar, dirigir, coordinar, controlar y evaluar estudios e investigaciones sobre temas educativos y sobre temas de las ciencias de la computación.",
+      "audio": "tom_11_investigaciones.mp3"
+    },
+    {
+      "palabras_clave": [
+        "asesoramiento pedagogico",
+        "asesor pedagogico",
+        "asesorar pedagogicamente",
+        "brindar asesoramiento",
+        "se puede brindar asesoramiento pedagógico"
+      ],
+      "respuesta": "Sí. Entre los alcances del título está brindar asesoramiento pedagógico en las especialidades, informática y programación.",
+      "audio": "tom_12_asesoramiento_pedagogico.mp3"
+    },
+    {
+      "palabras_clave": [
+        "posgrado",
+        "postgrado",
+        "pos titulacion",
+        "seguir estudiando",
+        "continuar estudios",
+        "especializacion",
+        "maestria",
+        "despues de recibirse",
+        "se puede seguir estudiando después de recibirse"
+      ],
+      "respuesta": "Sí. El título  es de grado por lo que tiene reconocimiento académico para continuar con estudios de posgrado..",
+      "audio": "tom_13_posgrado.mp3"
+    },
+    {
+      "palabras_clave": [
+        "por que existe",
+        "para que existe",
+        "por que se creo",
+        "por que esta carrera",
+        "para que sirve la carrera",
+        "demanda",
+        "por qué existe esta carrera",
+        "como se creo",
+        "creo"
+      ],
+      "respuesta": "Existe para cubrir una demanda que crece. Se están abriendo nuevas escuelas secundarias rurales y escuelas con orientación en Informática, en la región y en la provincia, y hacen falta docentes formados en el área.",
+      "audio": "tom_14_por_que_existe.mp3"
+    },
+    {
+      "palabras_clave": [
+        "carrera nueva",
+        "es nueva",
+        "es novedosa",
+        "novedosa",
+        "es una carrera nueva"
+      ],
+      "respuesta": "Sí, se presenta como una oferta novedosa. Propone estrategias que respondan a las necesidades y expectativas de las personas, para que aprender sea una experiencia significativa.",
+      "audio": "tom_15_carrera_nueva.mp3"
+    },
+    {
+      "palabras_clave": [
+        "enfoque de competencias",
+        "competencias",
+        "por competencias",
+        "qué es el enfoque de competencias",
+        "que le compete",
+        "competencia"
+      ],
+      "respuesta": "El enfoque de competencias pone el acento en aprender a resolver problemas. Busca desarrollar habilidades generales, como la creatividad, la cooperación, el análisis y la evaluación.",
+      "audio": "tom_16_competencias.mp3"
+    },
+    {
+      "palabras_clave": [
+        "ciencia tecnologia y sociedad",
+        "tecnologia y sociedad",
+        "enfoque cts",
+        "ciencia y sociedad",
+        "qué es el enfoque de ciencia tecnología y sociedad",
+        "cual es el enfoque de esta carrera",
+        "enfoque"
+      ],
+      "respuesta": "El enfoque de ciencia, tecnología y sociedad mira la relación entre esos tres mundos y cómo influyeron en la vida de las personas. Entiende la tecnología como aplicación del conocimiento y presta atención a sus aspectos humanos y sociales.",
+      "audio": "tom_17_ciencia_tecnologia_sociedad.mp3"
+    },
+    {
+      "palabras_clave": [
+        "tecnologia educativa",
+        "fundamentacion epistemologica",
+        "que es la tecnologia",
+        "qué es la tecnología educativa"
+      ],
+      "respuesta": "La tecnología educativa propone elegir y usar las tecnologías de forma reflexiva, contextualizada y estratégica. La concibe como una organización de personas, ideas, procedimientos y equipos, pensada para elaborar, aplicar y evaluar programas, proyectos y materiales educativos.",
+      "audio": "tom_18_tecnologia_educativa.mp3"
+    },
+    {
+      "palabras_clave": [
+        "tecnologia social",
+        "mirada social",
+        "pensar la informatica",
+        "como se piensa la informatica",
+        "formacion inicial",
+        "cómo se piensa la informática en la formación docente",
+        "tecnologia y educacion",
+        "que relación tiene la tecnología con esta carrera",
+        "que relación tiene esta carrera con la tecnología",
+        "social"
+      ],
+      "respuesta": "La formación inicial debe enseñar la ciencia y la técnica, y dar respuesta a necesidades sociales e individuales. Por eso el futuro docente aprende a pensar la informática como una tecnología social, orientada a mejorar la acción educativa y las prácticas de enseñanza.",
+      "audio": "tom_19_tecnologia_social.mp3"
+    },
+    {
+      "palabras_clave": [
+        "como se aprende",
+        "como aprenden",
+        "como se aprende aqui",
+        "cómo se aprende",
+        "que se aprende"
+      ],
+      "respuesta": "Cómo se aprende? Es una pregunta que el docente de hoy a veces olvida, pero tiene respuestas. Si se parte de lo que cada persona sabe, y de lo que es capaz de hacer, decir y entender, el aprendizaje significativo deja de ser una simple frase y se vuelve posible y la informática es una herramienta que permite a la vez guiar  y proporcionar información que nos ayuda a aprender..",
+      "audio": "tom_20_como_se_aprende.mp3"
+    },
+    {
+      "palabras_clave": [
+        "como se ensena",
+        "como ensenan",
+        "como se da una clase",
+        "cómo se enseña"
+      ],
+      "respuesta": "¿Cómo se enseña? Explicar en clase es un acto de comunicación, con reglas que ordenan los aportes de cada participante y forman un compromiso entre lo conocido y lo nuevo. Y en informática con ayuda de herramientas novedosas le damos un plus a la enseñanza.",
+      "audio": "tom_21_como_se_ensena.mp3"
+    },
+    {
+      "palabras_clave": [
+        "edgar morin",
+        "morin",
+        "incertidumbre",
+        "incertidumbres",
+        "qué dice edgar morin sobre la formación"
+      ],
+      "respuesta": "Siguiendo a Edgar Morin, la carrera sostiene que la educación actual debe preparar al futuro profesional para navegar en un mar de incertidumbres y complejidades, con apenas algunos islotes de seguridad.",
+      "audio": "tom_22_morin.mp3"
+    },
+    {
+      "palabras_clave": [
+        "que es ensenar",
+        "que significa ensenar",
+        "concepcion de ensenanza",
+        "finalidades de la formacion",
+        "qué es enseñar para esta carrera",
+        "enseñar, informatica"
+      ],
+      "respuesta": "Enseñar es una acción compleja. Implica decidir qué enseñar, cómo enseñar y para qué enseñar, y comprender las dimensiones sociales, históricas, pedagógicas y disciplinares que están en juego, para transformar al sujeto, al otro y al contexto. Mirar todo esto desde la perspectiva de la informática y sus herramientas le da una perspectiva única y revolucionaria..",
+      "audio": "tom_23_que_es_ensenar.mp3"
+    },
+    {
+      "palabras_clave": [
+        "formacion docente termina",
+        "termina cuando me recibo",
+        "se termina de aprender",
+        "dejar de formarse",
+        "seguir formandose",
+        "formación",
+        "cuando termina la formacion docente",
+        "la formación docente termina cuando uno se recibe"
+      ],
+      "respuesta": "No. La formación del docente de informática es un proceso permanente y continuo que acompaña el desarrollo profesional. La formación inicial tiene un peso importante en ese camino. Pero se debe seguir  el ritmo de la tecnología.",
+      "audio": "tom_24_formacion_permanente_proceso.mp3"
+    },
+    {
+      "palabras_clave": [
+        "informatica y sociedad",
+        "relacion con la sociedad",
+        "informatica y cultura",
+        "vida cotidiana",
+        "informatica con la sociedad",
+        "relacion con la sociedad",
+        "qué relación tiene la informática con la sociedad"
+      ],
+      "respuesta": "En esta carrera se estudian las relaciones de la tecnología informática con las ciencias, la sociedad, la vida cotidiana y la cultura. Se busca participar en ámbitos de producción cultural, científica, tecnológica e informática, para comprender y transformar las distintas realidades.",
+      "audio": "tom_25_informatica_cultura.mp3"
+    },
+    {
+      "palabras_clave": [
+        "los adolescentes",
+        "adolescentes y tecnologia",
+        "redes sociales",
+        "riesgos de internet",
+        "peligros de internet",
+        "mensajes de texto",
+        "adolescente, adolescentes, trabajar",
+        "adolescencia",
+        "cómo se trabaja con los adolescentes y la tecnología"
+      ],
+      "respuesta": "Los adolescentes de hoy se comunican de forma muy intensa a través de las pantallas, y esa realidad merece un buen tratamiento docente. El docente en Informática formará conciencia sobre las limitaciones, los riesgos y los peligros del uso de los programas informáticos.",
+      "audio": "tom_26_adolescentes.mp3"
+    },
+    {
+      "palabras_clave": [
+        "valores",
+        "formacion integral",
+        "libertad",
+        "solidaridad",
+        "finalidad",
+        "que valores",
+        "qué valores promueve la carrera, profesorado"
+      ],
+      "respuesta": "Una finalidad es brindar educación para desarrollar y fortalecer la formación integral de las personas. Se promueve la capacidad de definir un proyecto de vida basado en los valores de libertad, paz, solidaridad, igualdad, respeto a la diversidad, justicia, responsabilidad y bien común.",
+      "audio": "tom_27_formacion_integral_valores.mp3"
+    },
+    {
+      "palabras_clave": [
+        "conocimiento disciplinar",
+        "conocimiento didactico",
+        "mundo informatico",
+        "incidir en el mundo",
+        "garantiza",
+        "que conocimientos",
+        "conocimientos busca garantizar",
+        "qué conocimientos busca garantizar"
+      ],
+      "respuesta": "Se busca garantizar el conocimiento disciplinar y didáctico necesario para incidir en el mundo informático, de acuerdo con las posibilidades de quienes aprenden en las distintas modalidades del nivel secundario. Esos saberes también se pueden aplicar en otros ámbitos, estatales o privados.",
+      "audio": "tom_28_conocimiento_disciplinar.mp3"
+    },
+    {
+      "palabras_clave": [
+        "ciudadanos criticos",
+        "ciudadania",
+        "pensamiento critico",
+        "formar ciudadanos",
+        "pensar, forma",
+        "que tipo de pensamiento se promueve",
+        "se forman ciudadanos críticos",
+        "ciudan",
+        "critic",
+        "pensa"
+      ],
+      "respuesta": "Sí. Se propone que los usos informáticos sean una instancia fundamental en la formación de ciudadanos críticos y reflexivos, capaces de intervenir en las complejas relaciones sociales de hoy, con los medios más actualizados.",
+      "audio": "tom_29_ciudadanos_criticos.mp3"
+    },
+    {
+      "palabras_clave": [
+        "comprender a los sujetos",
+        "a quienes ensenan",
+        "a quien va dirigida",
+        "sujetos de la ensenanza",
+        "a quién va dirigida la enseñanza",
+        "finali"
+      ],
+      "respuesta": "Otra finalidad es comprender a los sujetos a quienes va dirigida la enseñanza, en sus dimensiones subjetivas, psicológicas, cognitivas, afectivas y socioculturales.",
+      "audio": "tom_30_comprender_sujetos.mp3"
+    },
+    {
+      "palabras_clave": [
+        "alfabetizacion",
+        "alfabetizacion cientifica",
+        "alfabetizacion informatica",
+        "alfabetiz",
+        "qué es la alfabetización científica tecnológica e informática"
+      ],
+      "respuesta": "La carrera contribuye a la alfabetización científica, tecnológica e informática de los futuros docentes.",
+      "audio": "tom_31_alfabetizacion.mp3"
+    },
+    {
+      "palabras_clave": [
+        "posiciones criticas",
+        "uso indiscriminado",
+        "fines sociales oscuros",
+        "emancipadoras",
+        "tendencias dominantes",
+        "uso de la informatica",
+        "postura",
+        "busc",
+        "post",
+        "que se busca",
+        "qué postura propone frente al uso de la informática"
+      ],
+      "respuesta": "Se busca colaborar en la construcción de posiciones críticas, emancipadoras e inclusivas frente a las tendencias dominantes y a los valores hegemónicos en el uso de la Informática, cuando se usa sin distinción o con oscuros fines sociales.",
+      "audio": "tom_32_posiciones_criticas.mp3"
+    },
+    {
+      "palabras_clave": [
+        "docente trabajador",
+        "transmisor",
+        "recreador",
+        "movilizador",
+        "preservacion ambiental",
+        "que tipo de docente",
+        "qué tipo de docente se quiere formar",
+        "propon",
+        "tip",
+        "como debe ser el docente"
+      ],
+      "respuesta": "Se propone formar un docente trabajador en su área, que sea transmisor, recreador y movilizador. Con una mirada educativa orientada a la salud, la preservación ambiental, el bienestar y la integración social y comunitaria.",
+      "audio": "tom_33_docente_trabajador.mp3"
+    },
+    {
+      "palabras_clave": [
+        "marcos teoricos",
+        "actualizacion permanente",
+        "aprender a ensenar",
+        "valorar la critica",
+        "herramienta intelectual",
+        "reflexion y la critica",
+        "valora la reflexion",
+        "que se valora",
+        "vusc",
+        "por qué se valora la reflexión y la crítica"
+      ],
+      "respuesta": "Se busca aprender a enseñar construyendo una relación con el conocimiento que promueva la reflexión y la actualización permanente de los marcos teóricos. Y valorar la crítica como herramienta intelectual para interpretar la práctica profesional en términos éticos y políticos.",
+      "audio": "tom_34_reflexion_actualizacion.mp3"
+    },
+    {
+      "palabras_clave": [
+        "perfil del egresado",
+        "perfil egresado",
+        "que perfil",
+        "perf",
+        "perfil profesional",
+        "que tipo de profesional",
+        "como es el egresado",
+        "como es un egresado",
+        "qué perfil tiene el egresado"
+      ],
+      "respuesta": "La institución pretende formar un profesional capaz de acompañar el aprendizaje, comprometerse con su propia formación y con el trabajo en equipo, respetar la diversidad y mirar el mundo con espíritu crítico. Puedes preguntarme por cada uno de esos rasgos.",
+      "audio": "tom_35_perfil_general.mp3"
+    },
+    {
+      "palabras_clave": [
+        "animador",
+        "guia y orientador",
+        "orientador del proceso",
+        "rol del docente",
+        "rol del egresado",
+        "ser guia",
+        "cuál es el rol del egresado en el aula"
+      ],
+      "respuesta": "El perfil lo describe como animador, guía y orientador del proceso de aprendizaje. Es decir, alguien que acompaña a quienes aprenden y los orienta en el camino.",
+      "audio": "tom_36_animador_guia.mp3"
+    },
+    {
+      "palabras_clave": [
+        "trabajo en equipo",
+        "trabajo cooperativo",
+        "interdisciplinario",
+        "actitud solidaria",
+        "equipo interdisciplinario",
+        "importa el trabajo en equipo",
+        "como es",
+        "como debe ser"
+      ],
+      "respuesta": "Sí. Es un profesional dispuesto y comprometido con su propia formación permanente. Valora el trabajo en equipo, cooperativo e interdisciplinario, y tiende a una actitud solidaria.",
+      "audio": "tom_37_formacion_equipo.mp3"
+    },
+    {
+      "palabras_clave": [
+        "democratico",
+        "pluralismo",
+        "democracia",
+        "vida democratica",
+        "qué compromiso tiene con la democracia"
+      ],
+      "respuesta": "Está comprometido con el sistema de vida democrático y con el respeto al pluralismo y a la diversidad.",
+      "audio": "tom_38_democracia_pluralismo.mp3"
+    },
+    {
+      "palabras_clave": [
+        "instancias de evaluacion",
+        "dispuesto a ser evaluado",
+        "evalua",
+        "evaluado por",
+        "comision directiva",
+        "las evaluaciones",
+        "recibe las evaluaciones",
+        "cómo se espera que reciba las evaluaciones"
+      ],
+      "respuesta": "Se espera que esté bien dispuesto a las distintas instancias de evaluación: la Comisión Directiva, las familias, los alumnos y los preceptores.",
+      "audio": "tom_39_evaluacion.mp3"
+    },
+    {
+      "palabras_clave": [
+        "relaciones interpersonales",
+        "relaciones saludables",
+        "motivar la participacion",
+        "crear confianza",
+        "como se relaciona",
+        "relaci",
+        "cómo se relaciona con los demás"
+      ],
+      "respuesta": "Puede comunicarse estableciendo relaciones interpersonales saludables. También es hábil para motivar la participación dinámica en las actividades personales y colectivas, y para crear una relación de confianza y comprensión hacia los demás.",
+      "audio": "tom_40_relaciones_saludables.mp3"
+    },
+    {
+      "palabras_clave": [
+        "actitud de justicia",
+        "preservador",
+        "medio ambiente",
+        "cuidado del ambiente",
+        "respeto a las culturas",
+        "justicia y el ambiente",
+        "justi",
+        "Ambie",
+        "qué actitud tiene ante la justicia y el ambiente"
+      ],
+      "respuesta": "Actúa con justicia en el ejercicio de sus funciones. Respeta las personalidades, las culturas, las particularidades de todos y los acuerdos de equipo. Y es un preservador del medio ambiente natural y social.",
+      "audio": "tom_41_justicia_ambiente.mp3"
+    },
+    {
+      "palabras_clave": [
+        "actitud critica",
+        "crisis civilizatoria",
+        "respuestas creativas",
+        "modelo productivo",
+        "actitu",
+        "qué actitud crítica se espera del egresado"
+      ],
+      "respuesta": "Tiene una actitud crítica, de análisis consciente y maduro, respecto del poder, de la ciencia y del modelo productivo. Y busca respuestas creativas a la actual crisis civilizatoria.",
+      "audio": "tom_42_actitud_critica.mp3"
+    },
+    {
+      "palabras_clave": [
+        "objetivos de la carrera",
+        "objetivo de la carrera",
+        "cual es el objetivo",
+        "para que sirve esta carrera",
+        "que busca la carrera",
+        "que se busca",
+        "objetivos",
+        "objetiv",
+        "los objetivos",
+        "cuáles son los objetivos de la carrera"
+      ],
+      "respuesta": "La carrera concibe la formación docente de Educación Secundaria como una práctica sociohistórica transformadora, sostenida en valores democráticos y solidarios, y en el conocimiento como herramienta para comprender y transformar la realidad de un otro.",
+      "audio": "tom_43_objetivo_general.mp3"
+    },
+    {
+      "palabras_clave": [
+        "identidad docente",
+        "lider pedagogico",
+        "identid",
+        "constru",
+        "construccion de la identidad",
+        "cómo se construye la identidad docente"
+      ],
+      "respuesta": "Otro objetivo es promover la construcción de la identidad docente como líder pedagógico, con confianza en la educabilidad del estudiante, y que ese estudiante se comprometa con su aprendizaje más allá de las condiciones del contexto.",
+      "audio": "tom_44_identidad_docente.mp3"
+    },
+    {
+      "palabras_clave": [
+        "multiculturales",
+        "plurilingues",
+        "comunidades originarias",
+        "vinculos institucionales",
+        "multicultural",
+        "comunidades diversas",
+        "comunid",
+        "lingües",
+        "diver",
+        "se trabaja con comunidades diversas"
+      ],
+      "respuesta": "Sí. La carrera promueve activamente vínculos institucionales de reconocimiento y valoración de las comunidades multiculturales y plurilingües.",
+      "audio": "tom_45_comunidades_multiculturales.mp3"
+    },
+    {
+      "palabras_clave": [
+        "centralidad de la ensenanza",
+        "funcion del docente",
+        "trabajo colaborativo",
+        "fortalecimiento de la escuela",
+        "lugar ocupa la ensenanza",
+        "lugar de la ensenanza",
+        "qué lugar ocupa la enseñanza",
+        "funci",
+        "rol"
+      ],
+      "respuesta": "Se propone revalorizar la enseñanza como función central del docente, y el trabajo colaborativo en equipo como sostén de la integración y el fortalecimiento de la escuela secundaria.",
+      "audio": "tom_46_ensenanza_funcion_central.mp3"
+    },
+    {
+      "palabras_clave": [
+        "formacion pedagogica",
+        "solida e integral",
+        "problematicas educativas",
+        "resolver problematicas",
+        "qué formación pedagógica se brinda",
+        "preparacion",
+        "prepara"
+      ],
+      "respuesta": "Se brinda a los futuros profesores una formación pedagógica sólida e integral, que les permita indagar, analizar y resolver las problemáticas educativas que surjan de su práctica profesional y de su comunidad.",
+      "audio": "tom_47_formacion_pedagogica_solida.mp3"
+    },
+    {
+      "palabras_clave": [
+        "velocidad de los cambios",
+        "cambios tecnologicos",
+        "formacion permanente",
+        "permanen",
+        "cambios cientificos",
+        "importante seguir formandose",
+        "por que seguir formandose",
+        "por qué es importante seguir formándose"
+      ],
+      "respuesta": "Porque la carrera busca fomentar la formación permanente como condición necesaria ante la velocidad de los cambios en el campo científico, tecnológico, de la comunicación y de la información.",
+      "audio": "tom_48_formacion_permanente_cambios.mp3"
+    },
+    {
+      "palabras_clave": [
+        "la diversidad",
+        "repensar la diversidad",
+        "que es la diversidad",
+        "diversidad cultural",
+        "diversidad",
+        "que se entiende por diversidad",
+        "qué se entiende por diversidad"
+      ],
+      "respuesta": "Se busca enriquecer las posibilidades de repensar la diversidad como una experiencia cultural colectiva del aprendizaje, que reconoce las situaciones individuales y los contextos socioculturales diversos.",
+      "audio": "tom_49_diversidad.mp3"
+    },
+    {
+      "palabras_clave": [
+        "fundamentar",
+        "ontologica",
+        "procesos psicologicos",
+        "fundamentos de la ensenanza",
+        "se fundamenta",
+        "fundamenta",
+        "fundamenta la ensenanza",
+        "en qué se fundamenta la enseñanza de la informática"
+      ],
+      "respuesta": "Otro objetivo es fundamentar, desde lo epistemológico, lo ontológico y lo metodológico, los procesos psicológicos, pedagógicos, didácticos y disciplinares que intervienen en la enseñanza y el aprendizaje de la Informática.",
+      "audio": "tom_50_fundamentar_procesos.mp3"
+    },
+    {
+      "palabras_clave": [
+        "Hola",
+        "buenas",
+        "que tal"
+      ],
+      "respuesta": " Hola soy Tom, Como estas, Pregúntame sobre el Profesorado de Educación Secundaria en Informática y te daré las respuestas.",
+      "audio": "tom_51_formacion_integral_profesional.mp3"
+    },
+    {
+      "palabras_clave": [
+        "programar",
+        "programacion",
+        "lenguajes de programacion",
+        "lenguaje de programacion",
+        "con que lenguajes",
+        "aprende a programar",
+        "se programa",
+        "se aprende a programar con qué lenguajes"
+      ],
+      "respuesta": "Sí. Se aprende desde lo básico: algoritmos, diagramas de flujo y pseudocódigo, hasta estructuras de datos y programación orientada a objetos. El plan nombra Visual Basic, pero lo central no es un lenguaje: es aprender a diseñar soluciones a problemas.",
+      "audio": "tom_54_programar.mp3"
+    },
+    {
+      "palabras_clave": [
+        "matematica",
+        "hay matematica",
+        "materias de matematica",
+        "calculo",
+        "estadistica",
+        "probabilidad",
+        "hay matemática"
+      ],
+      "respuesta": "Sí. Hay Cálculo para Informática, con lógica, conjuntos, funciones, álgebra de Boole, matrices y combinatoria. Y en cuarto año, Modelización Matemática y Simulación, con probabilidad y estadística.",
+      "audio": "tom_55_matematica.mp3"
+    },
+    {
+      "palabras_clave": [
+        "redes e internet",
+        "redes de computadoras",
+        "se estudian redes",
+        "internet",
+        "conectividad",
+        "redes",
+        "se estudian redes e internet"
+      ],
+      "respuesta": "Sí. En Tecnología de los Sistemas Informáticos y la Conectividad se estudia cómo funciona Internet: redes de computadoras, redes inalámbricas y protocolos como IP y TCP. También se ve como se arma un cableado, como se configuran dispositivos y se instala una intranet.",
+      "audio": "tom_56_redes_internet.mp3"
+    },
+    {
+      "palabras_clave": [
+        "seguridad informatica",
+        "se ve seguridad",
+        "criptografia",
+        "hackers",
+        "hackeo",
+        "firewall",
+        "se ve seguridad informática"
+      ],
+      "respuesta": "Sí. En cuarto año hay Seguridad Informática. Se ven criptografía, firma digital, autenticación, control de acceso, y seguridad en redes e Internet, con temas como los firewalls.",
+      "audio": "tom_57_seguridad.mp3"
+    },
+    {
+      "palabras_clave": [
+        "bases de datos",
+        "base de datos",
+        "sql",
+        "modelo relacional",
+        "gestion de datos",
+        "se aprenden bases de datos"
+      ],
+      "respuesta": "Sí. En tercer año está Base de Datos. Se estudian los modelos de datos, el modelo entidad relación, el enfoque relacional, la normalización y el lenguaje de consulta SQL.",
+      "audio": "tom_58_bases_datos.mp3"
+    },
+    {
+      "palabras_clave": [
+        "reparar computadoras",
+        "reparar",
+        "reparacion",
+        "arreglar computadoras",
+        "arreglar pc",
+        "hardware",
+        "mantenimiento de equipos",
+        "se aprende a reparar computadoras"
+      ],
+      "respuesta": "Sí, aunque como un tema dentro de Informática, en primer año: el diagnóstico y la reparación de fallas en equipos informáticos, junto con el hardware, el software y los sistemas operativos.",
+      "audio": "tom_59_reparar_pcs.mp3"
+    },
+    {
+      "palabras_clave": [
+        "linux",
+        "unix",
+        "sistemas operativos",
+        "sistema operativo",
+        "windows",
+        "se usa linux"
+      ],
+      "respuesta": "Sí. En Informática, de primer año, se ven los sistemas operativos Windows, Linux y Unix. Y se aprenden instrucciones básicas de sistemas basados en Linux.",
+      "audio": "tom_60_linux.mp3"
+    },
+    {
+      "palabras_clave": [
+        "hay ingles",
+        "ingles tecnico",
+        "ingles",
+        "idioma",
+        "traduccion",
+        "hay inglés"
+      ],
+      "respuesta": "Sí. Hay Inglés Técnico. Ayuda a comprender y traducir textos de la carrera, con vocabulario técnico y glosarios, hasta alcanzar un nivel medio de traducción.",
+      "audio": "tom_61_ingles.mp3"
+    },
+    {
+      "palabras_clave": [
+        "diseno grafico",
+        "se ensena diseno",
+        "tipografia",
+        "teoria del color",
+        "bauhaus",
+        "se enseña diseño gráfico"
+      ],
+      "respuesta": "Sí. En tercer año está Fundamentos del Diseño Gráfico. Se estudia la teoría de la percepción, la teoría del color, la tipografía y la historia del diseño.",
+      "audio": "tom_62_diseno_grafico.mp3"
+    },
+    {
+      "palabras_clave": [
+        "materias de contabilidad",
+        "contabilidad",
+        "contable",
+        "contables",
+        "sistemas contables",
+        "tango",
+        "hay materias de contabilidad"
+      ],
+      "respuesta": "Sí. En cuarto año está Sistemas Contables Informatizados. Se ve cómo se usa la informática en la contabilidad, con registro de compras, ventas, cobros y pagos.",
+      "audio": "tom_63_contabilidad.mp3"
+    },
+    {
+      "palabras_clave": [
+        "aulas virtuales",
+        "aula virtual",
+        "simulaciones",
+        "simulacion",
+        "entornos virtuales",
+        "educacion virtual",
+        "se usan aulas virtuales y simulaciones"
+      ],
+      "respuesta": "Sí. En TIC en Educación se estudian los entornos virtuales de aprendizaje y las aulas virtuales. Y en cuarto año se trabaja con simuladores digitales y simulación por computadora, en Recursos Informáticos Aplicados a otras Disciplinas.",
+      "audio": "tom_64_aulas_virtuales_simulacion.mp3"
+    },
+    {
+      "palabras_clave": [
+        "cultura y lengua originaria",
+        "lengua originaria",
+        "lenguas originarias",
+        "pueblos originarios",
+        "lengua indigena",
+        "originaria",
+        "qué es cultura y lengua originaria"
+      ],
+      "respuesta": "Es un taller cuatrimestral de segundo año. Acerca a los futuros docentes a las lenguas y culturas originarias, que son lenguas oficiales del Chaco, porque la educación intercultural bilingüe es muy importante en la provincia.",
+      "audio": "tom_65_lengua_originaria.mp3"
+    },
+    {
+      "palabras_clave": [
+        "libre",
+        "cursar libre",
+        "cursada",
+        "cursar",
+        "como se cursa",
+        "se cursa",
+        "cursada de la carrera",
+        "como es la cursada"
+      ],
+      "respuesta": "No. no puedes, La cursada es presencial, con clases teóricas y prácticas,si existe la condicion libre en la cursada, pero no puedes cursar toda la carrera.",
+      "audio": "tom_66_Cursada.mp3"
+    },
+    {
+      "palabras_clave": [
+        "inscrip",
+        "abrir",
+        "inscri"
+      ],
+      "respuesta": "No. la carrera es a termino, pero si se puede gestionar con las autoridades para volver a abrir la Cursada.",
+      "audio": "tom_67_inscripcion.mp3"
+    },
+    {
+      "palabras_clave": [
+        "Que puedo enseñar",
+        "que materias puedo dar",
+        "de que puedo trabajar",
+        "que clases puedo dar",
+        "que materias puedo enseñar con este titulo"
+      ],
+      "respuesta": "Todos los espacios curriculares que coinciden con esta formación de base, y  también  pueden ser  otros donde el sistema  los categorice de habilitante o supletorio.",
+      "audio": "tom_68_que_puedo_dar.mp3"
+    },
+    {
+      "palabras_clave": [
+        "Practica",
+        "cuando empiezan la practicas",
+        "Practi",
+        "practica docente",
+        "residencia"
+      ],
+      "respuesta": "Hay una práctica docente cada año, que termina en la Residencia..",
+      "audio": "tom_69_Practica.mp3"
+    }
+  ],
+  "genericas": [
+    {
+      "respuesta": "Veo la curiosidad en tus palabras... Pregúntame sobre el Profesorado de Educación Secundaria en Informática y te daré las respuestas.",
+      "audio": "tom_generico.mp3"
+    },
+    {
+      "respuesta": "Se desvanese la tinta de tus palabras... Pregúntame sobre el Profesorado de Educación Secundaria en Informática y te daré las respuestas.",
+      "audio": "tom_generico2.mp3"
+    }
+  ]
+}

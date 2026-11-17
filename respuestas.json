@@ -41,8 +41,7 @@
         "ayuda",
         "qué puedo preguntarte",
         "que te puedo preguntar",
-        "qué ye puedo preguntar",
-        "que sabes"
+                "que sabes"
       ],
       "respuesta": "Puedes preguntarme por la carrera: cuánto dura, qué título entrega y qué puede hacer quien se recibe. También por sus objetivos y por el perfil del egresado. Elige una pregunta y escríbela.",
       "audio": "tom_02_que_puedo_preguntar.mp3"
@@ -50,19 +49,23 @@
     {
       "palabras_clave": [
         "como se llama la carrera",
-        "nombre tiene la carrera, profesorado",
+        "nombre tiene la carrera",
         "que es esta carrera",
         "de que es la carrera",
         "que carrera es",
         "nombre de la carrera",
         "de que trata la carrera",
         "que carrera estas promocionando",
-        "cómo se llama la carrera",
-        "contáme sobre esta carrera",
-        "háblame de esta carrera",
-        "hablame de esta carrera, profesorado",
+        "como se llama la carrera",
+        "contame sobre esta carrera",
+        "hablame de esta carrera",
+        "hablame de esta carrera",
         "contame de esta carrera",
-        "como se llama el profesorado"
+        "como se llama el profesorado",
+        "dime",
+        "algo",
+        "habla",
+        "cuent"
       ],
       "respuesta": "Se llama Profesorado de Educación Secundaria en Informática. Es una carrera que forma profesores para enseñar informática en las escuelas secundarias.",
       "audio": "tom_03_nombre_carrera.mp3"
@@ -712,7 +715,7 @@
         "que tal"
       ],
       "respuesta": " Hola soy Tom, Como estas, Pregúntame sobre el Profesorado de Educación Secundaria en Informática y te daré las respuestas.",
-      "audio": "tom_51_formacion_integral_profesional.mp3"
+      "audio": "tom_51_Hola.mp3"
     },
     {
       "palabras_clave": [
